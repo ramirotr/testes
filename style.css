@@ -1,0 +1,8 @@
+ul li{
+    width: 30px;
+    height: 30px;
+    display: block;
+    float: left;
+    padding: 100px;
+    list-style-type: none;
+}
